@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hasan-ylmz/React_useState_Counter/static/css/main.6b94bd61.css",
+    "main.js": "/hasan-ylmz/React_useState_Counter/static/js/main.d0879694.js",
+    "index.html": "/hasan-ylmz/React_useState_Counter/index.html",
+    "main.6b94bd61.css.map": "/hasan-ylmz/React_useState_Counter/static/css/main.6b94bd61.css.map",
+    "main.d0879694.js.map": "/hasan-ylmz/React_useState_Counter/static/js/main.d0879694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b94bd61.css",
+    "static/js/main.d0879694.js"
+  ]
+}
